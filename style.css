@@ -1,0 +1,116 @@
+.body{
+    font-family:"DM Sans", sans-serif;
+}
+.fa-car{
+    background-color: #D92626;
+}
+.head1{
+    font-weight: 600; 
+    font-size: 30px;
+    line-height: 36px;
+    color: #2c3038;
+}
+.hero{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(bannerbg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+  
+}
+.write-up{
+    margin-top: 170px;
+    margin-bottom: 170px;
+}
+.write-up h1{
+    
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 60px;
+}
+.write-up p{
+    font-size: 18px;
+    line-height: 28px;
+    color: #eeeeee;
+    font-weight: 400;
+}
+.formy{
+    background-color: white;
+    padding: 80px;
+    text-align: center;
+    border-radius: 5px;
+    color: #000000;
+
+   
+
+}
+.formy input{
+   
+    margin: 10px;
+    border: none !important;
+    background-color: #F5F5F5;
+
+}
+.cent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.send-btn{
+    background-color: #B82020 !important;
+    border: none !important;
+    width: 100%;
+
+}
+.btn-red{
+    background-color: #B82020 !important;
+    border: none !important;
+}
+.fa-car{
+    background-color: #ffffff;
+    color: #B82020;
+
+}
+.fa-plug{
+    background-color: #ffffff;
+    color: #B82020;
+}
+.fa-wrench{
+    background-color: #ffffff;
+    color: #B82020;
+}
+.bd-1{
+    background-color:#F7F7F7 !important ;
+    width: 100%;
+    height: 80vh;
+   
+
+}
+.bd-2{
+    width: 100%;
+    height: 80vh;
+    background-color: #ffffff !important;
+}
+.text-my{
+    line-height: 28px;
+    color: #999999 !important;
+    font-weight: 500;
+}
+.text-my2{
+    line-height: 46px;
+    font-size: 38px;
+    color:  #2c3038;
+}
+.my-h3{
+    font-weight: 700;
+}
+.my-h3:hover{
+    color: #d92626;
+}
+.my-h4{
+    line-height: 28px;
+    color: #696969;
+    font-weight: 400;
+}
